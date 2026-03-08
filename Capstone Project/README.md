@@ -207,9 +207,3 @@ Dataset GSE288248 tersedia secara publik di [NCBI GEO](https://www.ncbi.nlm.nih.
 4. Liberzon, A. et al. (2015). The Molecular Signatures Database Hallmark Gene Set Collection. *Cell Systems*, 1(6), 417-425.
 
 ---
-
-<p align="center">
-  <img src="figures/Volcano_Plot_Paired-GSEA.png" width="45%"/>
-  <img src="figures/Hallmark_Pathway_Enrichment.png" width="45%"/>
-</p>
-<p align="center"><i>Kiri: Volcano plot DEG (17 gen signifikan) · Kanan: Pathway volcano GSEA (26 pathway, semua NES positif)</i></p>
